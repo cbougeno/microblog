@@ -1,5 +1,11 @@
 # cached Python
 *__pycache__
 
+<<<<<<< HEAD
+=======
+#pycharm
+.idea
+
+>>>>>>> 736ba61a0d093f73dfd9e782b73efc08d7466d91
 #virtual environment
 venv
